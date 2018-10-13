@@ -1,0 +1,1 @@
+C:\Users\johan\MyProjekts\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\ExamplePca9685DriverModule.csproj;arm
