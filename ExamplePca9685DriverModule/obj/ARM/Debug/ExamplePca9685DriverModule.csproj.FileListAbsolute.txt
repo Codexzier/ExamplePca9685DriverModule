@@ -225,3 +225,11 @@ D:\Source\Github\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModu
 D:\Source\Github\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\MainPage.xaml
 D:\Source\Github\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\App.xbf
 D:\Source\Github\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\MainPage.xbf
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\App.g.i.cs
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\App.g.cs
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\MainPage.g.i.cs
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\MainPage.g.cs
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\App.xaml
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\MainPage.xaml
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\App.xbf
+D:\Source\CSharp\RaspberryPi\ExamplePca9685DriverModule\ExamplePca9685DriverModule\obj\ARM\Debug\MainPage.xbf
